@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fa.croasdaile@gmail.com
+	name = Fernando Aguilera Croasdaile
